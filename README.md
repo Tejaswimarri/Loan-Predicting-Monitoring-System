@@ -249,10 +249,3 @@ ML pipeline monitoring using:
 
    - `truncate mljob;`
 
-## Contributions
-
-This project was completed under the guidance of:
-
-- Tyler Conlon, Big Data and Cloud Architecture Professor.
-
-- Sumona Mondal, Mathematics Chair.
